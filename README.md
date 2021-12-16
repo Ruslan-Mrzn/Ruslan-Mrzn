@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет 👋
+
+- 📚 Изучаю JavaScript, TypeScript, React и сопутствующие технологии
+- 
+- 📫 Написать мне можно на почту, указанную в профиле. Мой ник в telegram @Russel_Murzin.
 
 <!--
 **Ruslan-Mrzn/Ruslan-Mrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
